@@ -1,3 +1,5 @@
+This library is outdated and does not work with LoxConfig8
+
 # Java-Loxone
 Java library for communicating with the Loxone Smart Home System
 This library is currently in ints early stages and is subject to change
